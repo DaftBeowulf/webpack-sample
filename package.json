@@ -1,7 +1,6 @@
 {
   "name": "webpack-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development"
@@ -13,5 +12,15 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaftBeowulf/webpack-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaftBeowulf/webpack-sample/issues"
+  },
+  "homepage": "https://github.com/DaftBeowulf/webpack-sample#readme",
+  "description": ""
 }
